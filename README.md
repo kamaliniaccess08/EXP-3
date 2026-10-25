@@ -1,5 +1,6 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3				
+STAIR CASE WIRING                     
 
  
 AIM
@@ -38,13 +39,22 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+![WhatsApp Image 2025-09-24 at 09 15 37_7b9430c7](https://github.com/user-attachments/assets/75bcaab5-3f75-4927-8821-6453353f3102)
+
+![WhatsApp Image 2025-09-24 at 09 15 36_32dedab4](https://github.com/user-attachments/assets/e44b677a-46f8-41d3-b430-aa90e8ad8a00)
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+
+![WhatsApp Image 2025-09-24 at 09 15 37_37ea3d90](https://github.com/user-attachments/assets/836c267e-7660-4fdd-975b-81339c850dc3)
+
 	
 Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
+
+![WhatsApp Image 2025-09-24 at 09 15 36_1fc236c6](https://github.com/user-attachments/assets/192a364e-e524-46df-b32a-dc77e97a73bc)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
